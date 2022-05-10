@@ -16,7 +16,6 @@ O pilar Excelência operacional inclui a capacidade de oferecer suporte ao desen
 
 ***Segurança***
 O pilar Segurança refere-se à capacidade de proteger dados, sistemas e ativos para utilizar as tecnologias de nuvem para melhorar sua segurança.
-
 O pilar Segurança apresenta uma visão geral dos princípios de design, melhores práticas e perguntas.
 
 ***Confiabilidade***
@@ -27,5 +26,4 @@ O pilar Eficiência de performance inclui a capacidade de usar recursos de compu
 
 ***Otimização de custos***
 O pilar Otimização de custos inclui a capacidade de executar sistemas para proporcionar valor comercial pelo menor preço.
-
 O pilar Otimização de custos fornece uma visão geral dos princípios de design, melhores práticas e perguntas.
